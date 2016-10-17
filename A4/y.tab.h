@@ -1,0 +1,13 @@
+#define ID 257
+#define MAIN 258
+#define OP 259
+#define CONDITIONAL 260
+#define IF 261
+#define FOR 262
+#define WHILE 263
+#define RELATIONAL 264
+#define INC 265
+#define DEC 266
+#define NUMBER 267
+#define DT 268
+#define ELSE 269
